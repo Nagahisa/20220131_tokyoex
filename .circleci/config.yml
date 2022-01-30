@@ -22,4 +22,7 @@ jobs:
       - run: mix local.rebar --force
       - run: mix archive.install --force hex phx_new
       - run: mix do deps.get, compile
+      - run: mix credo
       - run: mix test
+      - run: mix dialyzer
+
