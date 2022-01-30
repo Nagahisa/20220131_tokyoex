@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/Nagahisa/20220131_tokyoex/tree/main.svg?style=svg)](https://circleci.com/gh/Nagahisa/20220131_tokyoex/tree/main)
 # Demo (modyfied for CircleCI Test)
 
 To start your Phoenix server:
