@@ -1,4 +1,8 @@
 defmodule DemoWeb.Telemetry do
+  @moduledoc """
+  Dummy description.
+  """
+
   use Supervisor
   import Telemetry.Metrics
 
